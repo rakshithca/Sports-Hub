@@ -12,9 +12,9 @@ ______________________________________________________________________________
 		1.) Java       : 10820
 		2.) JavaScript : 486
 
-------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------
 
-2.)What assignment features implemented in the project?
+2. Features
 	a.) Servlet Based Web Application
 	b.) Usage of plain text file to fetch data
 	C.) Implementation of CRUD operations in SQL database
@@ -32,7 +32,7 @@ ______________________________________________________________________________
 
 ------------------------------------------------------------------------------------------------------------------------------------------------	
 
-3.)Instructions on how to deploy and run this project:
+3.Instructions on how to deploy and run this project:
 
 	1. Start tomcat server
 	2. Copy "SportsHub" folder to the tomcat webapps folder.
