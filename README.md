@@ -15,24 +15,24 @@ ______________________________________________________________________________
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 2. Features <br/>
-	a.) Servlet Based Web Application
-	b.) Usage of plain text file to fetch data
-	C.) Implementation of CRUD operations in SQL database
-	d.) Implementation of NoSQL database (MongoDB)      
-	e.) Trending & Data Analytics feature
-	f.) All new code added for MySQL shall be placed in a class called MySQLDataStoreUtilities.java
-	g.) All new code added for MongoDB shall be placed in a class called MongoDBDataStoreUtilities.java
-	h.) Generation of transaction reports
-	j.) Search Auto-Completion feature
-	k.) Data Exploration feature
-	l.) Implementation of Python and Twitter API
-	m.) Recommendation feature(Latest News)
-	n.) Implentation of JS, JQuery, JSP, Java, Python, SQL, NoSQL, Tomcat, BootStrap, AJAX, HTML, CSS, Servlets
- 	o.) Carousel feature
+	a.) Servlet Based Web Application<br/>
+	b.) Usage of plain text file to fetch data<br/>
+	C.) Implementation of CRUD operations in SQL database<br/>
+	d.) Implementation of NoSQL database (MongoDB)    <br/>  
+	e.) Trending & Data Analytics feature<br/>
+	f.) All new code added for MySQL shall be placed in a class called MySQLDataStoreUtilities.java<br/>
+	g.) All new code added for MongoDB shall be placed in a class called MongoDBDataStoreUtilities.java<br/>
+	h.) Generation of transaction reports<br/>
+	j.) Search Auto-Completion feature<br/>
+	k.) Data Exploration feature<br/>
+	l.) Implementation of Python and Twitter API<br/>
+	m.) Recommendation feature(Latest News)<br/>
+	n.) Implentation of JS, JQuery, JSP, Java, Python, SQL, NoSQL, Tomcat, BootStrap, AJAX, HTML, CSS, Servlets<br/>
+ 	o.) Carousel feature<br/>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------	
 
-3.Instructions on how to deploy and run this project:
+3.Instructions on how to deploy and run this project:<br/>
 
 	1. Start tomcat server
 	2. Copy "SportsHub" folder to the tomcat webapps folder.
