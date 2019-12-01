@@ -14,7 +14,7 @@ ______________________________________________________________________________
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-2. Features
+2. Features <br/>
 	a.) Servlet Based Web Application
 	b.) Usage of plain text file to fetch data
 	C.) Implementation of CRUD operations in SQL database
