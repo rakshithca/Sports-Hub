@@ -63,14 +63,14 @@ For testing purposes you can give as:
 User Name: user
 Password:  user
 
-Customer can,
+Customer can,<br/>
 
-1.> Buy tickets 
-2.> View and Canacel order
-3.> Write and View Review
-4.> Search for different events 
-5.> Buy tickets for different cities
-6.> Log out 
+1.> Buy tickets <br/>
+2.> View and Canacel order<br/>
+3.> Write and View Review<br/>
+4.> Search for different events <br/>
+5.> Buy tickets for different cities<br/>
+6.> Log out <br/>
 
 _________________________________________________________________________________
 
@@ -80,13 +80,13 @@ User Name: admin
 Password:  admin
 
 
-Manager can,
+Manager can,<br/>
 
-1.> Create New customer 
-2.> Create New Event
-3.> Update a Event 
-4.> Delete a Event 
-5.> Can access sales report
-6.> Can view data analytics reports
-7.> Can modify customer orders
-8.> Log out
+1.> Create New customer <br/>
+2.> Create New Event<br/>
+3.> Update a Event <br/>
+4.> Delete a Event <br/>
+5.> Can access sales report<br/>
+6.> Can view data analytics reports<br/>
+7.> Can modify customer orders<br/>
+8.> Log out<br/>
